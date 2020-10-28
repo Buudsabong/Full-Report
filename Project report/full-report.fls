@@ -1,0 +1,293 @@
+PWD /Users/givee/Desktop/Report/Full-Report/Project report
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.tex
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.log
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/itkmitlproject.cls
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/itkmitlproject.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/tuenc.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/realscripts/realscripts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/realscripts/realscripts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/metalogo/metalogo.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/metalogo/metalogo.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/eucal.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/eucal.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/eufrak.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/eufrak.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titletoc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titletoc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/afterpage.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/afterpage.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/acknowledgement.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/acknowledgement.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.toc
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.toc
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.toc
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lot
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lot
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lot
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lof
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lof
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lof
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/images/page-padding.png
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.tex
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.tex
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.tex
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.bbl
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.bbl
+OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/author-bio.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/author-bio.tex
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
