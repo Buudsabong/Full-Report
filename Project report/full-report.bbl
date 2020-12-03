@@ -21,105 +21,90 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{schroffFaceNetUnifiedEmbedding2015}
+\bibitem{birdclef}
 \BIBentryALTinterwordspacing
-F.~Schroff, D.~Kalenichenko, and J.~Philbin, ``{{FaceNet}}: {{A Unified
-  Embedding}} for {{Face Recognition}} and {{Clustering}},'' {\bfseries 2015
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, pp.
-  815--823, 2015. [Online]. Available: \url{http://arxiv.org/abs/1503.03832}
+``{BirdCLEF} 2020 {\textbar} {ImageCLEF} / {LifeCLEF} - {Multimedia}
+  {Retrieval} in {CLEF}.'' [Online]. Available:
+  \url{https://www.imageclef.org/BirdCLEF2020}
 \BIBentrySTDinterwordspacing
 
-\bibitem{sagonas300FacesIntheWild2013}
+\bibitem{xeno-canto}
 \BIBentryALTinterwordspacing
-C.~Sagonas, G.~Tzimiropoulos, S.~Zafeiriou, and M.~Pantic, ``300 {{Faces}}
-  in-the-{{Wild Challenge}}: {{The First Facial Landmark Localization
-  Challenge}},'' in {\bfseries 2013 {{IEEE International Conference}} on
-  {{Computer Vision Workshops}}}.\hskip 1em plus 0.5em minus 0.4em\relax
-  {Sydney, Australia}: {IEEE}, 2013, pp. 397--403. [Online]. Available:
-  \url{http://ieeexplore.ieee.org/document/6755925/}
+``Xeno-canto {Foundation} and {Naturalis} {Biodiversity} {Center} (2020).''
+  [Online]. Available: \url{https://www.xeno-canto.org/about/xeno-canto}
 \BIBentrySTDinterwordspacing
 
-\bibitem{chungEmpiricalEvaluationGated2014}
+\bibitem{Kahl2019}
+S.~Kahl, F.~R. St{\"{o}}ter, H.~Go{\"{e}}au, H.~Glotin, R.~Planqu{\'{e}}, W.~P.
+  Vellinga, and A.~Joly, ``{Overview of BIRDCLEF 2019: Large-scale bird
+  recognition in soundscapes},'' 2019.
+
+\bibitem{birdgenie}
 \BIBentryALTinterwordspacing
-J.~Chung, C.~Gulcehre, K.~Cho, and Y.~Bengio, ``Empirical {{Evaluation}} of
-  {{Gated Recurrent Neural Networks}} on {{Sequence Modeling}},'' {\bfseries
-  arXiv:1412.3555 [cs]}, 2014. [Online]. Available:
-  \url{http://arxiv.org/abs/1412.3555}
+``\BIBforeignlanguage{en-US}{{BirdGenie} {Homepage} (2020)},'' {\bfseries
+  \BIBforeignlanguage{en-US}{BirdGenie}}. [Online]. Available:
+  \url{http://www.birdgenie.com/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{fernandez-lopezSurveyAutomaticLipreading2018}
+\bibitem{JiaDeng2009}
+{Jia Deng}, {Wei Dong}, R.~Socher, {Li-Jia Li}, {Kai Li}, and {Li Fei-Fei},
+  ``{ImageNet: A large-scale hierarchical image database},'' 2009.
+
+\bibitem{Pfeiffer1987}
+F.~W. Pfeiffer, ``{Automatic differentiation in PyTorch Adam},'' {\bfseries ACM
+  SIGNUM Newsletter}, 1987.
+
+\bibitem{mcfee_librosa/librosa:_2020}
 \BIBentryALTinterwordspacing
-A.~{Fernandez-Lopez} and F.~M. Sukno, ``Survey on automatic lip-reading in the
-  era of deep learning,'' {\bfseries Image and Vision Computing}, pp. 53--72,
-  2018. [Online]. Available:
-  \url{https://linkinghub.elsevier.com/retrieve/pii/S0262885618301276}
+B.~McFee, V.~Lostanlen, M.~McVicar, A.~Metsai, S.~Balke, C.~Thomé, C.~Raffel,
+  A.~Malek, D.~Lee, F.~Zalkow, {Kyungyun Lee}, O.~Nieto, J.~Mason, D.~Ellis,
+  R.~Yamamoto, S.~Seyfarth, E.~Battenberg, {Виктор Морозов},
+  R.~Bittner, {Keunwoo Choi}, J.~Moore, {Ziyao Wei}, S.~Hidaka,
+  {Nullmightybofo}, P.~Friesch, {Fabian-Robert Stöter}, D.~Hereñú, {Taewoon
+  Kim}, M.~Vollrath, and A.~Weiss, ``librosa/librosa: 0.7.2,'' Jan. 2020.
+  [Online]. Available: \url{https://zenodo.org/record/3606573}
 \BIBentrySTDinterwordspacing
 
-\bibitem{sunHumanActionRecognition2015}
+\bibitem{AT1987}
 \BIBentryALTinterwordspacing
-L.~Sun, K.~Jia, D.-Y. Yeung, and B.~E. Shi, ``Human {{Action Recognition}}
-  using {{Factorized Spatio}}-{{Temporal Convolutional Networks}},'' {\bfseries
-  arXiv:1510.00562 [cs]}, 2015. [Online]. Available:
-  \url{http://arxiv.org/abs/1510.00562}
+``มาทำความรู้จัก
+  รูปแบบสัญญาณเสียง digital แบบ pcm
+  กันเถอะ (ฉบับปรับปรุง) | re.v –>.''
+  [Online]. Available:
+  \url{https://rev.at1987.com/articles/pulse-code-modulation/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{wangDeepFaceRecognition2018}
+\bibitem{international_evalmetric}
+H.~M and S.~M.N, ``{A Review on Evaluation Metrics for Data Classification
+  Evaluations},'' {\bfseries International Journal of Data Mining {\&}
+  Knowledge Management Process}, 2015.
+
+\bibitem{Imbalanced_dealing_medium}
 \BIBentryALTinterwordspacing
-M.~Wang and W.~Deng, ``Deep {{Face Recognition}}: {{A Survey}},'' {\bfseries
-  arXiv:1804.06655 [cs]}, 2018. [Online]. Available:
-  \url{http://arxiv.org/abs/1804.06655}
+D.~Soni, ``Dealing with imbalanced classes in machine learning,'' 2019.
+  [Online]. Available:
+  \url{https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2}
 \BIBentrySTDinterwordspacing
 
-\bibitem{sagonasSemiautomaticMethodologyFacial2013}
+\bibitem{Goeau2018}
+H.~Go{\"{e}}au, S.~Kahl, H.~Glotin, R.~Planqu{\'{e}}, W.~P. Vellinga, and
+  A.~Joly, ``{Overview of BirdCLEF 2018: Monospecies vs. soundscape bird
+  identification},'' 2018.
+
+\bibitem{EarthSky}
 \BIBentryALTinterwordspacing
-C.~Sagonas, G.~Tzimiropoulos, S.~Zafeiriou, and M.~Pantic, ``A
-  {{Semi}}-automatic {{Methodology}} for {{Facial Landmark Annotation}},'' in
-  {\bfseries 2013 {{IEEE Conference}} on {{Computer Vision}} and {{Pattern
-  Recognition Workshops}}}.\hskip 1em plus 0.5em minus 0.4em\relax {OR, USA}:
-  {IEEE}, 2013, pp. 896--903. [Online]. Available:
-  \url{http://ieeexplore.ieee.org/document/6595977/}
+``{Why do birds sing? | Earth | EarthSky}.'' [Online]. Available:
+  \url{https://earthsky.org/earth/why-do-birds-sing}
 \BIBentrySTDinterwordspacing
 
-\bibitem{fungEndToEndLowResourceLipReading2018}
+\bibitem{Birdingbyear}
 \BIBentryALTinterwordspacing
-I.~Fung and B.~Mak, ``End-{{To}}-{{End Low}}-{{Resource Lip}}-{{Reading}} with
-  {{Maxout Cnn}} and {{Lstm}},'' in {\bfseries 2018 {{IEEE International
-  Conference}} on {{Acoustics}}, {{Speech}} and {{Signal Processing}}
-  ({{ICASSP}})}.\hskip 1em plus 0.5em minus 0.4em\relax {Calgary, AB}: {IEEE},
-  2018, pp. 2511--2515. [Online]. Available:
-  \url{https://ieeexplore.ieee.org/document/8462280/}
+``{Identify Bird Calls - Easy Tips for Birding by Ear}.'' [Online]. Available:
+  \url{https://www.thespruce.com/birding-by-ear-basics-387331}
 \BIBentrySTDinterwordspacing
 
-\bibitem{petridisVisualOnlyRecognitionNormal2018}
-\BIBentryALTinterwordspacing
-S.~Petridis, J.~Shen, D.~Cetin, and M.~Pantic, ``Visual-{{Only Recognition}} of
-  {{Normal}}, {{Whispered}} and {{Silent Speech}},'' {\bfseries
-  arXiv:1802.06399 [cs]}, 2018. [Online]. Available:
-  \url{http://arxiv.org/abs/1802.06399}
-\BIBentrySTDinterwordspacing
-
-\bibitem{tranCloserLookSpatiotemporal2017}
-\BIBentryALTinterwordspacing
-D.~Tran, H.~Wang, L.~Torresani, J.~Ray, Y.~LeCun, and M.~Paluri, ``A {{Closer
-  Look}} at {{Spatiotemporal Convolutions}} for {{Action Recognition}},''
-  {\bfseries arXiv:1711.11248 [cs]}, 2017. [Online]. Available:
-  \url{http://arxiv.org/abs/1711.11248}
-\BIBentrySTDinterwordspacing
-
-\bibitem{xiaogangwangBoostedMultitaskLearning2009}
-\BIBentryALTinterwordspacing
-{Xiaogang Wang}, C.~Zhang, and Z.~Zhang, ``Boosted multi-task learning for face
-  verification with applications to web image and video search,'' in {\bfseries
-  2009 {{IEEE Conference}} on {{Computer Vision}} and {{Pattern
-  Recognition}}}.\hskip 1em plus 0.5em minus 0.4em\relax {Miami, FL}: {IEEE},
-  2009, pp. 142--149. [Online]. Available:
-  \url{https://ieeexplore.ieee.org/document/5206736/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{nvidiaTensorFlowDeterminism}
-\BIBentryALTinterwordspacing
-NVIDIA, {\bfseries ``{{TensorFlow Determinism}}}.'' [Online]. Available:
-  \url{https://github.com/NVIDIA/tensorflow-determinism}
-\BIBentrySTDinterwordspacing
+\bibitem{Yoon2009}
+B.-J. Yoon, ``{Hidden Markov Models and their Applications in Biological
+  Sequence Analysis},'' {\bfseries Current Genomics}, 2009.
 
 \end{thebibliography}

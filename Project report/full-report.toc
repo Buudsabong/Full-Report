@@ -5,23 +5,44 @@
 \contentsline {chapter}{สารบัญตาราง}{V}{table.caption.2}%
 \contentsline {chapter}{สารบัญรูป}{VI}{table.caption.2}%
 \contentsline {chapter}{\numberline {1}บทนำ}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}การเขียนรายงาน}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}รูปแบบรายงาน}{1}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}ส่วนประกอบของรายงานและการเรียงลำดับ}{1}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}การเว้นระยะห่างจากริมกระดาษ}{2}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}เลขที่หน้า}{3}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}การพิมพ์ตาราง}{3}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.2.5}การเรียงเลขตาราง}{4}{subsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.2.6}การพิมพ์รูป}{4}{subsection.1.2.6}%
-\contentsline {subsection}{\numberline {1.2.7}การพิมพ์เครื่องหมายวรรคตอน}{4}{subsection.1.2.7}%
-\contentsline {subsection}{\numberline {1.2.8}การเขียนบรรณานุกรม}{4}{subsection.1.2.8}%
+\contentsline {section}{\numberline {1.1}ที่มาและความสำคัญ}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}วัตถุประสงค์}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}วิธีการดำเนินการ}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}ขอบเขตของงาน}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}ประโยชน์ที่คาดว่าจะได้รับ}{4}{section.1.5}%
 \contentsline {chapter}{\numberline {2}การทบทวนวรรณกรรมที่เกี่ยวข้อง}{5}{chapter.2}%
-\contentsline {chapter}{\numberline {3}วิธีการดำเนินการวิจัย}{6}{chapter.3}%
-\contentsline {chapter}{\numberline {4}ผลการทดลองเบื้องต้นหรือระบบต้นแบบ}{7}{chapter.4}%
-\contentsline {chapter}{\numberline {5}บทสรุป}{8}{chapter.5}%
-\contentsline {chapter}{บรรณานุกรม}{9}{chapter.5}%
+\contentsline {section}{\numberline {2.1}เสียงและสัญญาณ (Sound and Signal)}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}สัญญาณซ้ำคาบ (Periodic signals)}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}สัญญาไม่ซ้ำคาบ (Non-periodic signals)}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}การสุ่มตัวอย่าง (Sampling)}{6}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}สเปกโตรแกรม (Spectrograms)}{6}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}สัญญาณรบกวน (Noise)}{6}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}ทฤษฎีการประมวลผลภาพดิจิตัล (Digital Image Processing)}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}การเรียนรู้ของเครื่อง (Machine Learning)}{7}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}การเรียนรู้แบบมีผู้สอน (Supervised Learning)}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}การเรียนรู้แบบไม่มีผู้สอน (Unsupervised Learning)}{9}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}โครงข่ายประสาทเทียม (Artificial Neural Network)}{9}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}โครงข่ายประสาทเชิงลึก (Deep Neural Network)}{10}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}โครงข่ายประสาทแบบคอนโวลูชัน (Convolutional Neural Network, CNN)}{13}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}สถาปัตยกรรมต่าง ๆ ของโครงข่ายประสาทแบบคอนโวลูชันและการกำหนดองค์ประกอบ (CNN Architecture and Configuration)}{16}{section.2.5}%
+\contentsline {section}{\numberline {2.6}เมตริกที่ใช้ในประเมินผลแบบจำลอง (Evaluation Metrics)}{16}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}F1-Score}{16}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Receiver Operating Characteristic Curve (ROC Curve)}{17}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Area under the ROC Curve (AUC)}{17}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Mean Average Precision (MAP)}{18}{subsection.2.6.4}%
+\contentsline {chapter}{\numberline {3}วิธีการดำเนินการวิจัย}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}บทนำและงานวิจัยที่เกี่ยวข้อง}{19}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}การเก็บข้อมูลและลักษณะของข้อมูลเสียง ที่ถูกนำมาใช้ในการทดลอง}{19}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}พฤติกรรมการส่งเสียงร้องของนก}{20}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}กระบวนการขั้นพื้นฐาน (Baseline methods)}{21}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}การจัดเตรียมการทดลอง}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}การสำรวจชุดข้อมูลเสียงนก (Data exploration)}{21}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Metrics ที่ใช้สำหรับการประเมินประสิทธิภาพของแบบจำลอง}{23}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}ผลการทดลองเบื้องต้นหรือระบบต้นแบบ}{24}{chapter.4}%
+\contentsline {chapter}{\numberline {5}บทสรุป}{25}{chapter.5}%
+\contentsline {chapter}{บรรณานุกรม}{26}{chapter.5}%
 \ttl@change@i {\@ne }{chapter}{0mm}{\stepcounter {tocitem}\tocheadcont {\thelinenumber }{\thetocitem }{\contentsname }}{\appendixname \hspace {1ex}\thecontentslabel \hspace {2mm}}{}{\hfill \contentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
-\contentsline {chapter}{\numberline {ก}เรื่องที่หนึ่ง}{11}{appendix.A}%
-\contentsline {chapter}{ประวัติผู้เขียน}{13}{appendix.A}%
+\contentsline {chapter}{\numberline {ก}เรื่องที่หนึ่ง}{28}{appendix.A}%
+\contentsline {chapter}{ประวัติผู้เขียน}{30}{appendix.A}%
 \contentsfinish 

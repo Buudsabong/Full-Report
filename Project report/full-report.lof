@@ -1,2 +1,22 @@
-\contentsline {figure}{\numberline {1.1}{\ignorespaces การเว้นระยะห่างจากริมกระดาษ\relax }}{3}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces แสดงกราฟของฟังก์ชันไซน์\relax }}{5}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces แสดงสัญญาณซ้ำคาบ\relax }}{6}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces แสดงตัวอย่างภาพสเปกโตรแกรม\relax }}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces แสดงความแตกต่างระหว่างการเขียนโปรแกรมในอดีตกับการเรียนรู้ของเครื่อง\relax }}{8}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces แสดงโครงสร้างของโครงข่ายประสาทเทียม\relax }}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces แสดงการทำงานของเซลล์ประสาทเทียมกับ Activation Function\relax }}{10}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces รูปเปรียบเทียบระหว่าง Sigmoid และ ReLU Function\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces แสดงโครงสร้างของโครงข่ายประสาทเชิงลึก\relax }}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces แสดงโครงข่ายประสาทเทียม\relax }}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces แสดงสถาปัตยกรรมของโครงข่ายประสาทเทียมแบบคอนโวลูชัน\relax }}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces แสดงตัวกรองขนาด 3 X 3\relax }}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces แสดงตัวอย่างของข้อมูลภาพขาเข้า ตัวกรอง และผังคุณลักษณะ\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces แสดงตัวอย่างลักษณะการเคลื่อนที่ของตัวกรองเพื่อให้ได้ผลลัพธ์ดังภาพ\nobreakspace {}\ref {Fig:input_fil_feature}\relax }}{14}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces แสดงการเคลื่อนที่ของตัวกรองเมื่อ Stride มีค่าเท่ากับ 1 และแสดงผลลัพธ์ของผังคุณลักษณะที่ได้\relax }}{14}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces แสดงการเคลื่อนที่ของตัวกรองเมื่อ Stride มีค่าเท่ากับ 2 และแสดงผลลัพธ์ของผังคุณลักษณะที่ได้\relax }}{15}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces แสดงข้อมูลรูปภาพที่มีการทำ Padding และแสดงของผังคุณลักษณะที่ได้หลังจากการทำ Padding\relax }}{15}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces แสดงการทำ Max Pooling ที่มีขนาดตัวกรองเท่ากับ 2 x 2 และ stride เท่ากับ 2\relax }}{16}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces แสดงความสัมพันธ์ของ AUC และ ROC Curve\relax }}{17}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces โฟล์เดอร์ที่ใช้ในการเก็บไฟล์เสียง\relax }}{22}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces ตัวอย่างไฟล์เสียงที่ถูกเก็บไว้ในโฟร์เดอร์\relax }}{22}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces ไฟล์เฉลยการทำงานของแบบจำลอง\relax }}{23}{figure.caption.23}%
 \contentsfinish 

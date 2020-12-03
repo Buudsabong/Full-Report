@@ -1,11 +1,11 @@
-PWD /Users/givee/Desktop/Report/Full-Report/Project report
+PWD /Users/givee/Dropbox/Thesis_Paper/Project_report_new
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.tex
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.log
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/itkmitlproject.cls
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/itkmitlproject.cls
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.tex
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.log
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/itkmitlproject.cls
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/itkmitlproject.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
@@ -166,21 +166,23 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.aux
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
@@ -191,13 +193,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
@@ -242,52 +244,72 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/acknowledgement.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/acknowledgement.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.toc
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.toc
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.toc
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lot
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lot
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lot
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lof
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lof
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.lof
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/images/page-padding.png
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.tex
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.tex
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.tex
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.bbl
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.bbl
-OUTPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/author-bio.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/author-bio.tex
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter1.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter2.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter3.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter4.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/chapter5.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/appendix.aux
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
-INPUT /Users/givee/Desktop/Report/Full-Report/Project report/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/acknowledgement.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/acknowledgement.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.toc
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.toc
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.toc
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.lot
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.lot
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.lot
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.lof
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.lof
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.lof
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.tex
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/sinewave.jpg
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/violin_waveform.png
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/spectogram_1.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/tradition_v_ml.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/artificial example.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/activation_function.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/sigmoin_v_relu.png
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/Deep_neural_ex.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/artificial example_2.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/cnn_1.jpeg
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/filter_3x3.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/feature_mapre_1.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/feature_mapre_2.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/feature_mapre_3.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/feature_mapre_4.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/padding_1.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/max_pool_1.JPG
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/auc_1.JPG
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/folder.png
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/filemp3.png
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/images/validation.png
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.tex
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.bbl
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.bbl
+OUTPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/author-bio.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/author-bio.tex
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter1.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter2.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter3.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter4.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/chapter5.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/appendix.aux
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
+INPUT /Users/givee/Dropbox/Thesis_Paper/Project_report_new/full-report.out
